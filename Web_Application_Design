@@ -1,1 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evalution1</title>
+</head>
+<body>
+    <h1 style="text-align: center;"><u>CV</u></h1>
+    <table border="1">
+        <tr>
+            <th align="center" rowspan="2">
+                <img src="images/hijab.jpg" alt="" style="border-radius: 50%;"> <br>
+                <u> <b>ABOUT ME</b></u> <br>
+                Motivated computer
+                science student with
+                strong analytical and
+                coding skills, looking
+                foward for my first work
+                experience. Proficient in
+                C++  and web
+                development, with a
+                history of quickly
+                learning new
+                technologies and
+                contributing to team
+                success <br>
+                <u><b>CONTACT ME</b></u><br>
+                Phone   : 01994760370 <br>
+                Email   : khadijatulk95@gmail.com <br>
+                Address : 3830-Solmaid, 
+                Vatara,Dhaka-121 <br>
+            </th>
+            <td><b>KHADIJA TUL
+                KUBRA                                                   
+                </b> <br>
+                1st year CS Studen</td>
 
+        </tr>
+        <tr> 
+            <td ><u><b>
+                EDUCATION
+            </b></u> <br>
+                UNIVERSITY   OF    INFORMATION 
+                TECHNOLOGY  AND  SCIENCE <br>
+                BSc in Computer Science and <br>
+                Engeneering, in progress. <br>
+                BANANI BIDYANIKETAN SCHOOL AND 
+                COLLEGE <br>
+                HSC in Science <br> <br>
+                <u><b>
+                    LANGUAGE
+                </b></u> <br>
+                Native Bangla <br>
+                English <br>
+                German <br> <br>
+                <u><b>
+                    HARD SKILLS
+                </b></u> <br>
+                Programming <br>
+                Teaching <br>
+                Management <br> <br>
+                <u><b>
+                    SOFT SKILLS
+                </b></u> <br>
+                Work in team <br>
+                Decision making <br>
+                Patience <br>
+                Adaptability <br> <br>
+                <u><b>HOBBIES</b></u> <br>
+                Music <br>
+                Tutoring <br>
+                Learning Language <br></td></tr>
+    </table>
+  
+</body>
+</html>
